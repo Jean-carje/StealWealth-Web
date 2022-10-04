@@ -390,7 +390,7 @@ button{
 
 /* contact-elem */
 .contact-elem{
-  width: 90vw;
+  width: 100vw;
   height: 90vh;
   background: url(images/bg.jpg) center/cover no-repeat fixed;
   padding: 10em 0;
